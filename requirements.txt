@@ -1,5 +1,6 @@
 discord.py
 wavelink
+Pillow
 aiohttp
 aiosqlite
-Pillow
+python-dotenv
