@@ -1,0 +1,67 @@
+{
+    "music_control": {
+        "play": "▶️",
+        "pause": "⏸️",
+        "resume": "▶️",
+        "stop": "⏹️",
+        "skip": "⏭️",
+        "previous": "⏮️",
+        "repeat": "🔁",
+        "repeat_one": "🔂",
+        "shuffle": "🔀"
+    },
+    "volume": {
+        "volume_up": "🔊",
+        "volume_down": "🔉",
+        "volume_mute": "🔇",
+        "volume_low": "🔈",
+        "volume_high": "🔊"
+    },
+    "status": {
+        "success": "✅",
+        "error": "❌",
+        "warning": "⚠️",
+        "info": "ℹ️",
+        "loading": "⏳",
+        "search": "🔍"
+    },
+    "music_sources": {
+        "spotify": "🎧",
+        "youtube": "▶️",
+        "soundcloud": "☁️"
+    },
+    "features": {
+        "filter": "🎛️",
+        "equalizer": "🎚️",
+        "headphones": "🎧",
+        "microphone": "🎤",
+        "musical_note": "🎵",
+        "musical_notes": "🎶",
+        "radio": "📻",
+        "star": "⭐",
+        "key": "🔑",
+        "quality": "💎"
+    },
+    "platforms": {
+        "youtube_platform": "▶️",
+        "soundcloud_platform": "☁️"
+    },
+    "control_panel": {
+        "settings": "⚙️",
+        "dashboard": "📊",
+        "queue": "📜",
+        "history": "📋"
+    },
+    "actions": {
+        "add": "➕",
+        "remove": "➖",
+        "clear": "🗑️",
+        "download": "📥",
+        "upload": "📤"
+    },
+    "time": {
+        "clock": "🕒",
+        "hourglass": "⏳",
+        "timer": "⏰"
+    }
+}
