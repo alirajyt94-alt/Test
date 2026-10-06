@@ -49,7 +49,7 @@ import base64
 import re
 import json
 
-from music_database import MusicDatabase
+from music_database import music_database
 
 # Custom emoji configuration
 class EmojiConfig:
