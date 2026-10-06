@@ -34,7 +34,7 @@ import base64
 import re
 import json
 
-from music_database import music_database
+from music_database import MusicDatabase
 
 
 class EmojiConfig:
